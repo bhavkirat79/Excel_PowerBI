@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/bhavkirat79/Excel_PowerBI/tree/0921dbd9cbc11a0ede9b9fe7082eef46bd7838fd/SalesReport_AtliQ)
+    **1.** To Create a _[customer performance report](https://github.com/bhavkirat79/Excel_PowerBI/tree/0921dbd9cbc11a0ede9b9fe7082eef46bd7838fd/SalesReport_AtliQ)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/bhavkirat79/Excel_PowerBI/tree/0921dbd9cbc11a0ede9b9fe7082eef46bd7838fd/SalesReport_AtliQ)
+    **2.** To Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/bhavkirat79/Excel_PowerBI/tree/0921dbd9cbc11a0ede9b9fe7082eef46bd7838fd/SalesReport_AtliQ)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
