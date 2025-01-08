@@ -21,7 +21,7 @@
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]&[Months] [link](https://github.com/bhavkirat79/Excel_PowerBI/tree/0921dbd9cbc11a0ede9b9fe7082eef46bd7838fd/Financial_AtliQ
 )
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/bhavkirat79/Excel_PowerBI/tree/0921dbd9cbc11a0ede9b9fe7082eef46bd7838fd/Financial_AtliQ)
+   **2.** Create Profit and Loss (P&L) reports by _[link](https://github.com/bhavkirat79/Excel_PowerBI/tree/0921dbd9cbc11a0ede9b9fe7082eef46bd7838fd/Financial_AtliQ)
 
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
